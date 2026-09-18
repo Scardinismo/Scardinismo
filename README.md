@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo **Kauan Scardini** e sou estudante de **Análise e Desenvolvimento de Sistemas** na A, com formação complementar e conhecimentos em **Java, Python, desenvolvimento de software, computação, hardware, software e Tecnologia da Informação**. Tenho interesse especial por **programação, inteligência artificial, arquitetura de sistemas e novas tecnologias**, buscando aplicar na prática os conhecimentos adquiridos durante minha formação. Também possuo **inglês avançado**, o que utilizo no estudo de documentações, ferramentas e conteúdos técnicos da área de tecnologia.
+Me chamo **Kauan Scardini** e sou estudante de **Análise e Desenvolvimento de Sistemas** na Anhanguera, com formação complementar e conhecimentos em **Java, Python, desenvolvimento de software, computação, hardware, software e Tecnologia da Informação**. Tenho interesse especial por **programação, inteligência artificial, arquitetura de sistemas e novas tecnologias**, buscando aplicar na prática os conhecimentos adquiridos durante minha formação. Também possuo **inglês avançado**, o que utilizo no estudo de documentações, ferramentas e conteúdos técnicos da área de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
